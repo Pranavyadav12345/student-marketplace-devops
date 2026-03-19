@@ -97,10 +97,7 @@ This ensures faster development cycles and high system availability.
 ---
 
 ## 🏗️ System Architecture
-
-<p align="center">
-  <img src="docs/architecture.png" width="800"/>
-</p>
+![Architecture](./architecture.png)
 
 ### 🔹 Architecture Overview
 The system follows a **3-tier architecture integrated with DevOps tools**:
@@ -128,9 +125,7 @@ The system follows a **3-tier architecture integrated with DevOps tools**:
 
 ## 🔄 Workflow (DevOps Pipeline)
 
-<p align="center">
-  <img src="docs/workflow.png" width="800"/>
-</p>
+![Workflow](./workflow.png)
 
 ### 🔹 Workflow Explanation
 1. Developer writes and updates code  
